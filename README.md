@@ -1,7 +1,8 @@
 # Django for API: Build web APIs With Python & Django
 
+中文翻译版：Django API开发: 使用Python和Django构建web APIs
 
-中文版：Django API开发: 使用Python和Django构建web APIs
+Django for api是一个基于项目的指南，指导您使用Django和Django REST框架构建现代api。它适合从未构建过API的初学者，以及希望快速介绍Django基础知识和最佳实践的专业程序员。
 
 ## [介绍](https://github.com/yuzhouStayHungry/Django-RESTfulAPI-Demo/blob/master/docs/%E4%BB%8B%E7%BB%8D.md)
 
