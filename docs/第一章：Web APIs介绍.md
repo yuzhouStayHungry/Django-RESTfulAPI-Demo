@@ -31,13 +31,16 @@ URL（统一资源定位符）是互联网上资源的地址。 例如，Google�
 
 在给定的URL中，还有几个离散的组件。 例如，再次考虑https://www.google.com。 第一部分，https，指的是使用的scheme。 它告诉Web浏览器如何访问该位置的资源。 对于网站，通常是http或https，但是也可以是ftp（用于文件），smtp（用于电子邮件）等等。 下一部分www.google.com是网站的主机名或实际名称。 每个URL都包含一个方案和一个主机。
 
-许多网页也包含可选**路径**。 如果您访问https://www.python.org的Python主页，然后单击“关于”页面的链接，您将被重定向到https://www.python.org/about/。` / about` /是路径。
-总而言之，每个https://python.org/about/之类的URL都有三个潜在部分：
+许多网页也包含可选**路径**。 如果您访问Python官网https://www.python.org,Python，然后单击“关于”页面的链接，您将被重定向到 https://www.python.org/about/。`/about` /是路径。
+
+总而言之，每个 https://python.org/about/ 之类的URL都有三个潜在部分：
 
 - 模式/协议-https
 
 - 主机/服务器名-www.python.org
+
 - 和（可选）路径-/ about /
+
 
 ## 互联网协议套件
 
