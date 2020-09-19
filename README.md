@@ -4,7 +4,7 @@
 
 Django for api是一个基于项目的指南，指导您使用Django和Django REST框架构建现代api。它适合从未构建过API的初学者，以及希望快速介绍Django基础知识和最佳实践的专业程序员。
 
-![Django for API](![](https://i.loli.net/2020/09/19/L1Tl2MDCmovERJk.png))
+![Django for API](https://i.loli.net/2020/09/19/L1Tl2MDCmovERJk.png)
 
 
 ## [介绍](https://github.com/yuzhouStayHungry/Django-RESTfulAPI-Demo/blob/master/docs/%E4%BB%8B%E7%BB%8D.md)
@@ -12,13 +12,14 @@ Django for api是一个基于项目的指南，指导您使用Django和Django RE
 ## 目录
 
 - [介绍](#介绍)
-	- [为什么需要APIs](#为什需要APIs？)
+	- [为什么需要APIs](#为什需要-APIs？)
 	- [Django REST 框架](#Django-rest-框架)
 	- [为什么写这本书](#为什么写这本书)
 	- [总结](#总结)
-- [第一章：Web API介绍](#第一章-web-apis)
-- [第二章：网络和API](#第二章网络和api)
-- [第三章：Todo待办事项应用API](#第三章todo-api)
+- [第一章：Web API介绍](https://github.com/yuzhouStayHungry/Django-RESTfulAPI-Demo/blob/master/docs/%E7%AC%AC%E4%B8%80%E7%AB%A0%EF%BC%9AWeb%20APIs%E4%BB%8B%E7%BB%8D.md)
+- [第二章：网络和API](https://github.com/yuzhouStayHungry/Django-RESTfulAPI-Demo/blob/master/docs/%E7%AC%AC%E4%BA%8C%E7%AB%A0%EF%BC%9A%E7%BD%91%E7%AB%99%E5%92%8CAPI.md)
+- [第三章：Todo待办事项应用API](https://github.com/yuzhouStayHungry/Django-RESTfulAPI-Demo/blob/master/docs/%E7%AC%AC%E4%B8%89%E7%AB%A0%EF%BC%9ATodo%E5%BA%94%E7%94%A8API.md)
+- 待续
 
 ### 介绍
 
