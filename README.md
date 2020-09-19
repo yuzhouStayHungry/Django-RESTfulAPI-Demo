@@ -1,18 +1,26 @@
 # Django for API: Build web APIs With Python & Django
 
-中文翻译版：Django API开发: 使用Python和Django构建web APIs
+Django API开发: 使用Python和Django构建web APIs
 
-Django for api是一个基于项目的指南，指导您使用Django和Django REST框架构建现代api。它适合从未构建过API的初学者，以及希望快速介绍Django基础知识和最佳实践的专业程序员。
+<img src="https://i.loli.net/2020/09/19/L1Tl2MDCmovERJk.png" width="150px">
 
-![Django for API](https://i.loli.net/2020/09/19/L1Tl2MDCmovERJk.png)
+Django for api是一个基于项目的指南，指导您使用Django和Django REST框架构建现代api。
 
+它适合从未构建过API的初学者，以及希望快速介绍Django基础知识和最佳实践的专业程序员。
 
-## [介绍](https://github.com/yuzhouStayHungry/Django-RESTfulAPI-Demo/blob/master/docs/%E4%BB%8B%E7%BB%8D.md)
+## 前言
+
+译者：最近正在学习Django for API这本入门书，此仓库是针对该书的一些开源章节翻译，可以快速入门Django，如果大家有什么问题可以提出来。
+
+希望之后通过学习更多的Django API开发相关知识，然后建立一个自己的学习仓库。
+
+> “I always advice people - Don't wait ! Do something when you are young, when you have no responsibilities. Invest time in yourself to have great Experiences that are going to enrich you, then you can't possibly lose.”
+— Steve Jobs
 
 ## 目录
 
 - [介绍](#介绍)
-	- [为什么需要APIs](#为什需要-APIs？)
+	- [为什么需要APIs](#为什需要apis)
 	- [Django REST 框架](#Django-rest-框架)
 	- [为什么写这本书](#为什么写这本书)
 	- [总结](#总结)
