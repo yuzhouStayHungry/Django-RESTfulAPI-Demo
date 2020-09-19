@@ -4,6 +4,9 @@
 
 Django for api是一个基于项目的指南，指导您使用Django和Django REST框架构建现代api。它适合从未构建过API的初学者，以及希望快速介绍Django基础知识和最佳实践的专业程序员。
 
+![Django for API](![](https://i.loli.net/2020/09/19/L1Tl2MDCmovERJk.png))
+
+
 ## [介绍](https://github.com/yuzhouStayHungry/Django-RESTfulAPI-Demo/blob/master/docs/%E4%BB%8B%E7%BB%8D.md)
 
 ## 目录
@@ -85,14 +88,3 @@ API-first的主要缺点是，与传统的Django应用程序相比，它需要�
 
 Django和Django REST Framework是一种强大且易于访问的构建Web API的方法。 到本书结尾，您将能够使用现代最佳实践从头开始正确构建自己的Web API。 您将能够以最少的代码将任何现有的Django网站扩展到网络API。
 让我们开始！
-
-## [第一章： Web APIs](https://github.com/yuzhouStayHungry/Django-RESTfulAPI-Demo/blob/master/docs/%E7%AC%AC%E4%B8%80%E7%AB%A0%EF%BC%9AWeb%20APIs%E4%BB%8B%E7%BB%8D.md)
-
-
-
-## [第二章：网络和API](https://github.com/yuzhouStayHungry/Django-RESTfulAPI-Demo/blob/master/docs/%E7%AC%AC%E4%BA%8C%E7%AB%A0%EF%BC%9A%E7%BD%91%E7%AB%99%E5%92%8CAPI.md)
-
-
-
-## [第三章：Todo API](https://github.com/yuzhouStayHungry/Django-RESTfulAPI-Demo/blob/master/docs/%E7%AC%AC%E4%B8%89%E7%AB%A0%EF%BC%9ATodo%E5%BA%94%E7%94%A8API.md)
-
