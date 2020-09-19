@@ -10,7 +10,7 @@ Django for api是一个基于项目的指南，指导您使用Django和Django RE
 
 - [介绍](#介绍)
 	- [为什么需要APIs](#为什需要APIs？)
-	- [Django REST 框架](#DjangoREST框架)
+	- [Django REST 框架](#Django-rest-框架)
 	- [为什么写这本书](#为什么写这本书)
 	- [总结](#总结)
 - [第一章：Web API介绍](#第一章-web-apis)
