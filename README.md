@@ -4,7 +4,7 @@
 
 Django for api是一个基于项目的指南，指导您使用Django和Django REST框架构建现代api。它适合从未构建过API的初学者，以及希望快速介绍Django基础知识和最佳实践的专业程序员。
 
-![Django for API](https://i.loli.net/2020/09/19/L1Tl2MDCmovERJk.png)
+![Django for API](https://github.com/yuzhouStayHungry/Django-RESTfulAPI-Demo/blob/master/cover/Django%20for%20APIs%20-%20Cover.png)
 
 
 ## [介绍](https://github.com/yuzhouStayHungry/Django-RESTfulAPI-Demo/blob/master/docs/%E4%BB%8B%E7%BB%8D.md)
